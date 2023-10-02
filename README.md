@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Daye03
-- 👀 I’m interested in full stack dev
-- 🌱 I’m currently learning react
 - 📫 How to reach me daniele.ye03@gmail.com
 
 <!---
